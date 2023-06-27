@@ -6,20 +6,20 @@
 
 加密算法相关库
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=gmsm)](https://github.com/melf-xyzh/multi-tenancy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=gmsm)](https://github.com/melf-xyzh/gmsm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-ades)](https://github.com/melf-xyzh/multi-tenancy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-ades)](https://github.com/melf-xyzh/go-ades)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-rsa)](https://github.com/melf-xyzh/multi-tenancy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-rsa)](https://github.com/melf-xyzh/go-rsa)
 
 
 中移物联SDK-GO
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-cm-heclouds)](https://github.com/melf-xyzh/multi-tenancy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-cm-heclouds)](https://github.com/melf-xyzh/go-cm-heclouds)
 
 分布式动态定时任务
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-ddcron)](https://github.com/melf-xyzh/multi-tenancy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melf-xyzh&repo=go-ddcron)](https://github.com/melf-xyzh/go-ddcron)
 
 
 
